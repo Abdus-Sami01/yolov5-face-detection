@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+torch
+torchvision
+matplotlib
+putils
+pysocks
+pandas
+Pillow
+scipy
+seaborn
+PyYAML
+requests
+
