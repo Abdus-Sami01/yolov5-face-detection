@@ -18,7 +18,6 @@ This project implements **face detection** using **YOLOv5**, leveraging deep lea
 1. **Clone the repository:**
 ```sh
 git clone https://github.com/Abdus-Sami01/yolov5-face-detection.git
-cd face-detection-using-yolov5
 ```
 
 2. **Install dependencies:**
